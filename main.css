@@ -1,0 +1,168 @@
+
+
+.block1{
+     margin: 10px;
+    display: flex;
+    gap: 70px;
+     padding: 20px 80px;
+     background-color: rgb(247, 247, 247);
+}
+.block1 p{
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.block2{
+    margin: 20px;
+    
+
+}
+
+.block3{
+    margin: 20px;
+   display: flex;
+    align-self: auto;
+    
+}
+h2{
+    margin: 30px;
+}
+.items{
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    gap: 90px;
+     background-color: rgb(247, 247, 247);
+     height: 200px;
+     width: auto;
+      text-align: center;
+      
+   
+}
+ .ii1 img{
+    height: 108px;
+    width: 108px;
+ }
+ #bold{
+    font-weight: bold;
+    
+ }
+ .ii2 img{
+    height: 108px;
+    width: 108px;
+ }
+
+.ii3 img{
+    height: 108px;
+    width: 108px;
+ }
+ .ii4 img{
+    height: 108px;
+    width: 108px;
+ }
+ .ii5 img{
+    height: 108px;
+    width: 108px;
+ }
+ .ii6 img{
+    height: 108px;
+    width: 108px;
+ }
+ .ii7 img{
+    height: 108px;
+    width: 108px;
+ }
+ 
+ .items1{
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    gap: 90px;
+     background-color: rgb(247, 247, 247);
+     height: 200px;
+     width: auto;
+     text-align: center;
+   
+}
+ .iii1 img{
+    height: 108px;
+    width: 108px;
+ }
+ #bold{
+    font-weight: bold;
+    
+ }
+ .iii2 img{
+    height: 108px;
+    width: 108px;
+ }
+
+.iii3 img{
+    height: 108px;
+    width: 108px;
+ }
+ .iii4 img{
+    height: 108px;
+    width: 108px;
+ }
+ .iii5 img{
+    height: 108px;
+    width: 108px;
+ }
+ .iii6 img{
+    height: 108px;
+    width: 108px;
+ }
+ .iii7 img{
+    height: 108px;
+    width: 108px;
+ }
+
+.items2{
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    gap: 90px;
+     background-color: rgb(247, 247, 247);
+     height: 200px;
+     width: auto;
+   
+}
+ .iiii1 img{
+    height: 108px;
+    width: 108px;
+ }
+ #bold{
+    font-weight: bold;
+    
+ }
+ .iiii2 img{
+    height: 108px;
+    width: 108px;
+ }
+
+.iiii3 img{
+    height: 108px;
+    width: 108px;
+ }
+ .iiii4 img{
+    height: 108px;
+    width: 108px;
+ }
+ .iiii5 img{
+    height: 108px;
+    width: 108px;
+ }
+ .iiii6 img{
+    height: 108px;
+    width: 108px;
+ }
+ .iiii7 img{
+    height: 108px;
+    width: 108px;
+ }
+

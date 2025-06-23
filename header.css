@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(249, 248, 248);
+
+}
+.nav{
+    height: 11vh;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    
+}
+.icons{
+      padding: 7px 0px;
+      display: flex;
+      align-items: center;
+}
+
+.search{
+    display:flex ;
+    padding: 20px;
+    align-items: center;
+    
+}
+.search input{
+    height: 36px;
+    width: 582px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: #d0cde6;
+    
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    font-weight: normal;
+    font-size: large;
+    
+}
+ .cart{
+    display: flex;
+    align-items:center ;
+    margin: 20px;
+    font-weight: normal;
+    font-size: large;
+ }
+ .seller{
+    display: flex;
+    align-items: center;
+    font-weight: normal;
+    font-size: large;
+
+ }
+
+ .span-class{
+    display: flex;
+    align-items: center;
+ }
